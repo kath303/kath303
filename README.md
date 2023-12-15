@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kath303
-- 👀 I’m interested in Inclusion and SEND
-- 🌱 I’m currently learning about Github and how to host a database for all those interested in the field of SEND
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 
+- 🌱 I’m currently learning about 
 - 📫 How to reach me ...
 
 <!---
